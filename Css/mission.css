@@ -570,8 +570,10 @@ nav ul li:hover ul.tour-dropdown {
     background-color: #000;
     height: 650px;
     width: 500px;
-    padding-right: 50px;
-    margin-left: -50px;
+    margin-right: auto;
+    margin-left: auto;
+   display: block;
+    
 }
 
 .card1 h4 {
@@ -589,9 +591,10 @@ nav ul li:hover ul.tour-dropdown {
     background-color: #000;
     height: 650px;
     width: 500px;
-    float: left;
-    padding-left: 50px;
-
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    
 }
 
 .card2 h4 {

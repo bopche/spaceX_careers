@@ -564,6 +564,14 @@ nav ul li:hover ul.tour-dropdown {
     display: flex;
 
 }
+.flexbox2 {
+    display: flex;
+
+}
+.flexbox3 {
+    display: flex;
+
+}
 
 .card1 {
     color: #fff;
@@ -572,7 +580,7 @@ nav ul li:hover ul.tour-dropdown {
     width: 500px;
     margin-right: auto;
     margin-left: auto;
-   display: block;
+    display: block;
     
 }
 
@@ -583,27 +591,6 @@ nav ul li:hover ul.tour-dropdown {
 }
 
 .card1 h2 {
-    margin-bottom: 25px;
-}
-
-.card2 {
-    color: #fff;
-    background-color: #000;
-    height: 650px;
-    width: 500px;
-    margin-left:auto;
-    margin-right:auto;
-    display: block;
-    
-}
-
-.card2 h4 {
-    margin-top: 25px;
-    padding-bottom: 7px;
-
-}
-
-.card2 h2 {
     margin-bottom: 25px;
 }
 
